@@ -37,6 +37,3 @@ This project is a dynamic form builder created using React. It renders forms bas
 
 ```bash
 npm start
-
-
-
