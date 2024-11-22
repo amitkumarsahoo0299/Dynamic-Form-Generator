@@ -10,6 +10,9 @@ This project is a dynamic form builder created using React. It renders forms bas
 - **Preview Submitted Data**: Displays the submitted data in a preview panel.
 - **Download Submission as JSON**: Allows downloading the submitted form data as a JSON file.
 
+## Hosted this application in Vercel 
+https://dynamic-form-generator-ten.vercel.app/
+
 ## Getting Started
 
 ### Prerequisites
